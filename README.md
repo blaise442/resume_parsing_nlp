@@ -1,7 +1,7 @@
 # Resume-Parser-Using-NLP(Natural Languange Processing)
 Resume Parsing using NLP
 
-# Intially check extension of file either .pdf or .docx. Convert pdf or docx file content into text. Then using NLP-Spacy,nltk,. libraries extract Name, Mobile number, Mail id, Qualification, Technical Skills from resume.
+## Intially check extension of file either .pdf or .docx. Convert pdf or docx file content into text. Then using NLP-Spacy,nltk,. libraries extract Name, Mobile number, Mail id, Qualification, Technical Skills from resume.
 
 NLP Libraries used
 
